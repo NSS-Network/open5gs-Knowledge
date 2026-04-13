@@ -5,7 +5,7 @@
 
   # Open5GS on Kubernetes
 
-  **5G Core Network on Kubernetes — NRIIS 2026**
+  #**5G Core Network on Kubernetes — NRIIS 2026**
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.28.15-blue)](https://kubernetes.io)
