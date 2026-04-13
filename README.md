@@ -1,11 +1,9 @@
 # open5gs-Knowledge
-#open5gs Knowledge for Private Network Community
-#<div align="center">
-  #<img src="docs/logo.svg" width="200" height="200" alt="NSS-Network Logo"/>
+open5gs Knowledge for Private Network Community
 
   # Open5GS on Kubernetes
 
-  #**5G Core Network on Kubernetes — NRIIS 2026**
+  #**5G Core Network on Kubernetes**
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.28.15-blue)](https://kubernetes.io)
