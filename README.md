@@ -1,7 +1,7 @@
 # open5gs-Knowledge
 #open5gs Knowledge for Private Network Community
-<div align="center">
-  <img src="docs/logo.svg" width="200" height="200" alt="NSS-Network Logo"/>
+#<div align="center">
+  #<img src="docs/logo.svg" width="200" height="200" alt="NSS-Network Logo"/>
 
   # Open5GS on Kubernetes
 
@@ -154,5 +154,5 @@ MIT License — ดูรายละเอียดที่ [LICENSE](LICENSE)
 ---
 
 <div align="center">
-  <sub>Made with love for 5G Community — NSS-Network NRIIS 2026</sub>
+  <sub>Made with love for 5G Community — NSS-Network </sub>
 </div>
