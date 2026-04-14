@@ -135,7 +135,9 @@ kubectl get pods
 **Container Image**
 `ghcr.io/nss-network/open5gs:2.7.0`
 
-ดู Package บน GitHub]([https://github.com/NSS-Network/open5gs-Knowledge/pkgs/container/open5gs))
+ดู Package บน GitHub
+https://github.com/NSS-Network/open5gs-Knowledge/pkgs/container/open5gs
+https://github.com/NSS-Network/open5gs-Knowledge/pkgs/container/mongo
 
 
 ## License
