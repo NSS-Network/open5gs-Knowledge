@@ -108,9 +108,9 @@ nriis2026-manifests/
 ## Quick Start
 
 ```bash
-git clone git@github.com:NSS-Network/nriis2026-manifests.git
+git clone git@github.com:NSS-Network/nss-open5gs.git
 cd nriis2026-manifests/server1-open5gs
-helm install open5gs open5gs-2.2.0.tgz -f trinergy_values.yaml
+helm install open5gs open5gs-2.2.0.tgz -f values.yaml
 kubectl get pods
 ```
 
