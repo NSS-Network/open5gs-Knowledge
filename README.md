@@ -142,7 +142,7 @@ kubectl get pods
 
 ## License
 
-MIT License — ดูรายละเอียดที่ [LICENSE](LICENSE)
+NSS-Network — ดูรายละเอียดที่  Free [LICENSE]
 
 ใช้งานได้อย่างเสรี เผยแพร่ได้ แก้ไขได้ เพื่อประโยชน์สาธารณะและ community
 
